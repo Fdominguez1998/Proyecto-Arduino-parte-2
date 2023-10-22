@@ -27,5 +27,9 @@ También hemos añadido un sensor de temperatura y un motor de corriente continu
 
 ####  Funcion principal
 
+------------
+
 La función "loop" en el código de Arduino monitorea constantemente el estado de un interruptor deslizante conectado al pin 4 del Arduino. Cuando el interruptor cambia de apagado a encendido, el contador se incrementa y asegura que los números mostrados estén en el rango de 0 a 99. Si el número actual es primo, se muestra en un display. Además, el programa lee un sensor de temperatura (NTC) y monitorea la temperatura a través de una función llamada "monitoriza". Si la temperatura supera un nivel establecido, se enciende un LED rojo y se activa un motor para enfriar el sistema. Si la temperatura está por debajo del nivel, el LED y el motor se apagan. Esta función se ejecuta en un bucle continuo, lo que permite que el proyecto muestre números y controle la temperatura en función de la posición del interruptor y las condiciones de temperatura detectadas.
+
+------------
 
