@@ -66,7 +66,9 @@ void loop() {
 ####  Link al Proyecto
 
 ------------
-Link
+
+[Link](https://www.tinkercad.com/things/i4w00k018sJ-tp-parte-2-/editel?sharecode=2ExBk70DXcq03s4Z7L7gS3aZWhCGc5nt2JdNow4ZJ7A)https://www.tinkercad.com/things/i4w00k018sJ-tp-parte-2-/editel?sharecode=2ExBk70DXcq03s4Z7L7gS3aZWhCGc5nt2JdNow4ZJ7A
+
 ------------
 
 
