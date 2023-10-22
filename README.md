@@ -1,2 +1,8 @@
-# Proyecto-Arduino-parte-2
-Proyecto Arduino
+Proyecto en Arduino
+------------
+
+#### Integrantes
+
+------------
+Daraio Camila.
+Dominguez Franco.
