@@ -1,8 +1,8 @@
-Proyecto en Arduino
+# Proyecto en Arduino
 
 [![Arduino-presentacion.jpg](https://i.postimg.cc/P5Rf0hmp/Arduino-presentacion.jpg)](https://postimg.cc/yD0zSMps)
 
-#### Integrantes
+### Integrantes
 
 ------------
 
@@ -10,13 +10,13 @@ Proyecto en Arduino
 - Dominguez Franco.
 
  
-#### Proyecto contador Binario.
+### Proyecto contador Binario.
 
 ------------
 
 [![Arduino-2.png](https://i.postimg.cc/Zn1jXGs8/Arduino-2.png)](https://postimg.cc/n9GvDPJr)
 
-####  Descripcion
+###  Descripcion
 
 ------------
 
@@ -27,7 +27,7 @@ También hemos añadido un sensor de temperatura y un motor de corriente continu
 
 ------------
 
-####  Funcion principal
+###  Funcion principal
 
 ------------
 
@@ -64,7 +64,7 @@ void loop() {
 
 ------------
 
-####  Link al Proyecto
+###  Link al Proyecto
 
 ------------
 
@@ -72,7 +72,7 @@ void loop() {
 
 ------------
 
-#### Fuentes
+### Fuentes
 
 ------------
 https://www.youtube.com/watch?v=_Ry7mtURGDE&list=PL7LaR6_A2-E11BQXtypHMgWrSR-XOCeyD&index=4&ab_channel=UTNFRA
