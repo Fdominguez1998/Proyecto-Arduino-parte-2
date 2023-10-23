@@ -13,7 +13,7 @@ Proyecto en Arduino
 
 ------------
 
-imagen de la parte 2
+[![Arduino-1.png](https://i.postimg.cc/XJsz1D0L/Arduino-1.png)](https://postimg.cc/qhCwzwq6)
 
 ####  Descripcion
 
